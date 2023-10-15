@@ -4,4 +4,5 @@ This repo contains backlinks to all repos we are submitting to the MultiversX xD
 - **[mx-unit](https://github.com/laurci/mx-unit)**: contains all the code/tools necessary to integrate the **MultiversX blockchain** with **unit**.
 - **[unit](https://github.com/laurci/unit)**: serverless runtime for real-time apps
 - **[unit-dashboard](https://github.com/laurci/unit-dashboard)**: management/monitoring UI for a single unit cluster
+- **[mx-xday-hackathon-demos](https://github.com/laurci/mx-xday-hackathon-demos)**: demos for the hackathon
 
